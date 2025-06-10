@@ -1,0 +1,11 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+plotly
+
+# You might need to specify versions like:
+# streamlit==1.23.1
+# pandas==2.0.3
+# numpy==1.25.2
+# plotly==5.15.0 
